@@ -1,0 +1,12 @@
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\bin\Debug\TimboxTestVB.exe.config
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\bin\Debug\TimboxTestVB.exe
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\bin\Debug\TimboxTestVB.pdb
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\bin\Debug\TimboxTestVB.xml
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\bin\Debug\TimboxLibrary.dll
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\bin\Debug\TimboxLibrary.pdb
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\obj\Debug\TimboxTestVB.vbprojResolveAssemblyReference.cache
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\obj\Debug\TimboxTestVB.Resources.resources
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\obj\Debug\TimboxTestVB.vbproj.GenerateResource.Cache
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\obj\Debug\TimboxTestVB.exe
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\obj\Debug\TimboxTestVB.xml
+C:\Users\raul\Desktop\timbox-dll\TimboxTestVB\obj\Debug\TimboxTestVB.pdb
